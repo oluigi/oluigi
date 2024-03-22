@@ -19,7 +19,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lg-Arduino" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Lg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Lg-Pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/848753839770173487/907249374638243910/ft.png">
 </div>
   
   ##
